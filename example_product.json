@@ -1,0 +1,230 @@
+{
+  'id': '545686964',
+  'verticalId': 5,
+  'adTypeId': 67,
+  'productId': 67,
+  'advertStatus': {
+    'id': 'active',
+    'description': 'aktiv',
+    'statusId': 50
+  },
+  'description': 'Nvidia gtx980m',
+  'attributes': {
+    'attribute': [
+      {
+        'name': 'LOCATION',
+        'values': [
+          'Loosdorf'
+        ]
+      },
+      {
+        'name': 'p2penabled',
+        'values': [
+          'true'
+        ]
+      },
+      {
+        'name': 'CHANGED',
+        'values': [
+          '1645370580000'
+        ]
+      },
+      {
+        'name': 'categorytreeattributeids',
+        'values': [
+          '[2535;2537, 21;23, 2535;2536, 5008971;5008972]'
+        ]
+      },
+      {
+        'name': 'CHANGED_String',
+        'values': [
+          '2022-02-20T16:23:00Z'
+        ]
+      },
+      {
+        'name': 'POSTCODE',
+        'values': [
+          '3382'
+        ]
+      },
+      {
+        'name': 'BODY_DYN',
+        'values': [
+          '2* 8gb ddr4 sodimm 2400mhz kingston je 20€ Nvidia gtx 980m 8gb (volle geschwindigkeit und nicht maxQ, manche anderen haben außerdem nur 4gb) 250€. Wurde von jemandem kontaktiert der den dazupassenden laptop (selbes modell, defekte grafikkarte) hat,...'
+        ]
+      },
+      {
+        'name': 'STATE',
+        'values': [
+          'Niederösterreich'
+        ]
+      },
+      {
+        'name': 'HEADING',
+        'values': [
+          'Nvidia gtx980m'
+        ]
+      },
+      {
+        'name': 'DISTRICT',
+        'values': [
+          'Melk'
+        ]
+      },
+      {
+        'name': 'PUBLISHED',
+        'values': [
+          '1645370460000'
+        ]
+      },
+      {
+        'name': 'COUNTRY',
+        'values': [
+          'Österreich'
+        ]
+      },
+      {
+        'name': 'PRICE/AMOUNT',
+        'values': [
+          '250.0'
+        ]
+      },
+      {
+        'name': 'ADTYPE_ID',
+        'values': [
+          '67'
+        ]
+      },
+      {
+        'name': 'ADID',
+        'values': [
+          '545686964'
+        ]
+      },
+      {
+        'name': 'ORGID',
+        'values': [
+          '22081672'
+        ]
+      },
+      {
+        'name': 'SEGMENT',
+        'values': [
+          '1'
+        ]
+      },
+      {
+        'name': 'SEO_URL',
+        'values': [
+          'kaufen-und-verkaufen/d/nvidia-gtx980m-545686964/'
+        ]
+      },
+      {
+        'name': 'PUBLISHED_String',
+        'values': [
+          '2022-02-20T16:21:00Z'
+        ]
+      },
+      {
+        'name': 'ISPRIVATE',
+        'values': [
+          '1'
+        ]
+      },
+      {
+        'name': 'categorytreeids',
+        'values': [
+          '5824;5878;5882'
+        ]
+      },
+      {
+        'name': 'PRODUCT_ID',
+        'values': [
+          '67'
+        ]
+      },
+      {
+        'name': 'COORDINATES',
+        'values': [
+          '48.21115,15.39292'
+        ]
+      },
+      {
+        'name': 'PRICE',
+        'values': [
+          '250'
+        ]
+      },
+      {
+        'name': 'PRICE_FOR_DISPLAY',
+        'values': [
+          '€ 250'
+        ]
+      }
+    ]
+  },
+  'advertImageList': {
+    'advertImage': []
+  },
+  'selfLink': 'https://api.willhaben.at/restapi/v2/atverz/545686964',
+  'contextLinkList': {
+    'contextLink': [
+      {
+        'id': 'selfLink',
+        'description': 'Identifies this entity',
+        'uri': 'https://api.willhaben.at/restapi/v2/atverz/545686964',
+        'selected': False,
+        'relativePath': '/atverz/545686964',
+        'serviceName': 'iad'
+      },
+      {
+        'id': 'seoSelfLink',
+        'description': 'Self reference',
+        'uri': 'https://api.willhaben.at/restapi/v2/atverz/kaufen-und-verkaufen/d/nvidia-gtx980m-545686964/',
+        'selected': False,
+        'relativePath': '/atverz/kaufen-und-verkaufen/d/nvidia-gtx980m-545686964/',
+        'serviceName': 'iad'
+      },
+      {
+        'id': 'adDetailLink',
+        'description': 'Self reference to advert via ad detail component',
+        'uri': 'https://publicapi.willhaben.at/atdetail/v1/545686964',
+        'selected': False,
+        'relativePath': '/545686964',
+        'serviceName': 'addetail'
+      },
+      {
+        'id': 'removeAdFromFolder',
+        'description': 'Remove ad from any folder',
+        'uri': 'https://api.willhaben.at/restapi/v2/userfolders/remove/545686964',
+        'selected': False,
+        'relativePath': '/userfolders/remove/545686964',
+        'serviceName': 'iad'
+      },
+      {
+        'id': 'getFolderSaveLinks',
+        'description': 'Get contextlinks to save the ad in the users folders',
+        'uri': 'https://api.willhaben.at/restapi/v2/userfolders/links/545686964',
+        'selected': False,
+        'relativePath': '/userfolders/links/545686964',
+        'serviceName': 'iad'
+      },
+      {
+        'id': 'iadShareLink',
+        'description': 'Share link in iAd',
+        'uri': 'https://www.willhaben.at/iad/object?adId=545686964',
+        'selected': False,
+        'relativePath': '/iad/object?adId=545686964',
+        'serviceName': 'web_url'
+      }
+    ]
+  },
+  'advertiserInfo': {
+    'label': None,
+    'iconSVG': None,
+    'iconPNG': None,
+    'iconType': 'NONE'
+  },
+  'upsellingOrganisationLogo': None,
+  'children': None
+}
